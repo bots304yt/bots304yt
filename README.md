@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hola 👋, hago cosas y despues las subo
----
+___
 ### Redes sociales 🌎
 ---
    - [Twitter](https://twitter.com/bots304yt)
