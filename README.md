@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hola 👋, hago cosas y despues las subo
+
+### Redes sociales 🌎
+
+   - [Twitter](https://twitter.com/bots304yt)
+   - [Instagram](https://www.instagram.com/botss304/)
+   - [EMail](https://mail.google.com/mail/u/0/?fs=1&to=bots304yt@gmail.com&su=&body=&tf=cm)
+   - Discord ==> Bots304yt
 
 ### My Stats 🤓
    <div>
