@@ -23,8 +23,5 @@ Here are some ideas to get you started:
    - Discord ==> Bots304yt
 
 ### My Stats 🤓
-   <div>
-  <br />
-  </div>
-
+<br><br />
 ![Bots304yt's GitHub stats](https://github-readme-stats.vercel.app/api?username=bots304yt&show_icons=true&theme=radical)
