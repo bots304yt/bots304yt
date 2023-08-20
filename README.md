@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Redes sociales 🌎
 
-   - 🕊️ [Twitter](https://twitter.com/bots304yt)
+   -  [🕊️ Twitter](https://twitter.com/bots304yt)
    - 📷 [Instagram](https://www.instagram.com/bots304yt/) 
    - ✉️ [Mail](https://mail.google.com/mail/u/0/?fs=1&to=bots304yt@gmail.com&su=&body=&tf=cm) 
    - 🤖 Discord ==> Bots304yt 
