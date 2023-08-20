@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ### My Stats 🤓
 
 ![Bots304yt's GitHub stats](https://github-readme-stats.vercel.app/api?username=bots304yt&show_icons=true&theme=dracula&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ---
